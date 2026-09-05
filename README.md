@@ -1,4 +1,4 @@
-# Awesome UAV Collision Avoidance Systems [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome UAV Collision Avoidance Systems [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -59,9 +59,9 @@ Collision avoidance systems are essential for the safe operation of UAVs (drones
 
 ## Related Awesome Lists
 
-- **[Awesome Swarm Drones](https://github.com/awesomelistsio/awesome-swarm-drones)**
-- **[Awesome Robotics](https://github.com/awesomelistsio/awesome-robotics)**
-- **[Awesome Open-Source Drone Firmware](https://github.com/awesomelistsio/awesome-open-source-drone-firmware)**
+- **[Awesome Swarm Drones](https://github.com/brandonhimpfen/awesome-swarm-drones)**
+- **[Awesome Robotics](https://github.com/brandonhimpfen/awesome-robotics)**
+- **[Awesome Open-Source Drone Firmware](https://github.com/brandonhimpfen/awesome-open-source-drone-firmware)**
   
 ## Contribute
 
